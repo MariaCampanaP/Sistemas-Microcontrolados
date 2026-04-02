@@ -9,6 +9,8 @@ Repositório contendo exercícios da disciplina **Sistemas Microcontrolados** do
 Este repositório reúne implementações de conceitos fundamentais de **Sistemas Microcontrolados**, contendo códigos em C++ adaptado para programação de placas como o Arduino IDE, além da vista do circuito e da vista esquemática.
 
 - *Primeiro Projeto - Semáforo*
+- *Segundo Projeto - Led Alternada*
+- *Terceiro Projeto - Efeito "carregando"*
 
 
 # ☕︎ Objetivo
