@@ -23,8 +23,8 @@ Os códigos, as vistas do circuito e as representações esquemáticas servem co
 
 ## ☕︎ Tecnologia Utilizadas
 
-- Arduino IDE
-- Tinkercad
+- Arduino IDE;
+- Tinkercad.
 
 ## ☕︎ Como Usar
 
